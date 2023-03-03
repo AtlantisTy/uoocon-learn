@@ -1,0 +1,15 @@
+uoocon:
+  unitLearn:
+    header:
+      Cookie: xxx
+      Host: cce.org.uooconline.com
+      Referer: http://cce.org.uooconline.com/home/learn/index
+  mark:
+    header:
+      Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+      Cookie: xxx
+      Host: cce.org.uooconline.com
+      Origin: http://cce.org.uooconline.com
+      Referer: http://cce.org.uooconline.com/home/learn/index
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57
+
